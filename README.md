@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iSxckle
-- 👀 I’m interested in animating
-- 🌱 I’m currently learning television production and video editing
-- 💞️ I’m looking to collaborate on netflix?
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding and video editing alongside VFX + CGI work
+- 💞️ I’m looking to collaborate with other aspiring programmers
 - 📫 How to reach me: www.twitter.com/isxckle
 
 <!---
